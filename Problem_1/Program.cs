@@ -2,7 +2,7 @@
 // и показывает наибольшую цифру числа.
 
 int a = new Random().Next(10, 100);
-Console.WriteLine(a);
+Console.WriteLine(a); 
 
 void MaxDigitOf2(int number)
 {

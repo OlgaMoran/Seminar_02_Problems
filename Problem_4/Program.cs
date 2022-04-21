@@ -5,7 +5,7 @@
 // int a = new Random().Next(0, 1000); 
 // Console.WriteLine(a);
 
-int a = 160;
+int a = 161;
 if (a % 7 == 0 & a % 23 == 0)
 {
     Console.WriteLine(a + " is a multiple of 7 and 23.");
